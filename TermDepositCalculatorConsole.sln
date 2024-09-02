@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermDepositCalculatorConsole", "TermDepositCalculatorConsole\TermDepositCalculatorConsole.csproj", "{A3E57766-6F6D-4EFB-B0C6-BCB2DDEC23AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermDepositCalculatorConsole.Tests", "TermDepositCalculatorConsole.Tests\TermDepositCalculatorConsole.Tests.csproj", "{27ED40E5-2428-4392-8918-A617C6626093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E57766-6F6D-4EFB-B0C6-BCB2DDEC23AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E57766-6F6D-4EFB-B0C6-BCB2DDEC23AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E57766-6F6D-4EFB-B0C6-BCB2DDEC23AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E57766-6F6D-4EFB-B0C6-BCB2DDEC23AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ED40E5-2428-4392-8918-A617C6626093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ED40E5-2428-4392-8918-A617C6626093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ED40E5-2428-4392-8918-A617C6626093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ED40E5-2428-4392-8918-A617C6626093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
