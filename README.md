@@ -15,7 +15,8 @@ Based on: [Calculator URL](https://www.bendigobank.com.au/calculators/deposit-an
 ## Navigation
 - Press enter to submit entry
 - Backspace to delete characters
-- Left arrow key to go to and modify previous answer. NOTE: any current question answer value will not be saved and would need to be re-entered again. 
+- Left arrow key to go to and modify previous answer. NOTE: any current question answer value will not be saved and would need to be re-entered again.
+- Ctrl+C to exit console app
 
 ## Requirements
 
